@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mohammed Lawal Abubakar (@softdiddy)
 - 👀 I’m interested in working remotely 
+- I have + 4Years experience in HTML, CSS, Javascript and PHP, + 3 Years Laravel, + 2 years experience in ReactJs, VueJs
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me softdiddy@gmail.com
 
