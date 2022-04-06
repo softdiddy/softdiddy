@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammed Lawal Abubakar (@softdiddy)
 - 👀 I’m interested in working remotely 
-- 🌱 I’m currently learning Nodejs, React and React netive
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me softdiddy@gmail.com
 
